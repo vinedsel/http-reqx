@@ -1,2 +1,2 @@
 # http-reqx
-An example project to show how async requests are handled via Redux.
+An example project to show how http requests are handled via Redux.
